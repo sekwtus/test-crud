@@ -1,0 +1,5 @@
+{
+  "name": "HR Nexus",
+  "description": "A modern HR management dashboard for employee profile CRUD operations, featuring AI-assisted profile generation using Google Gemini.",
+  "requestFramePermissions": []
+}
